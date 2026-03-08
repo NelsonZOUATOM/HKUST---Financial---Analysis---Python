@@ -57,6 +57,9 @@ J'utilise des métriques standardisées pour évaluer la robustesse des modèles
 1. Cloner le dépôt : git clone https://github.com/NelsonZOUATOM/HKUST---Financial---Analysis---Python.git
 2. Installer les dépendances : pip install pandas numpy matplotlib statsmodels scipy
 3. Ouvrir les fichiers .ipynb via Jupyter Notebook ou VS Code.
+   
 ✉️ Contact
+
 Nelson ZOUATOM
+
 www.linkedin.com/in/nelson-arafat-zouatom-tchaptchet-961155348
