@@ -62,4 +62,6 @@ J'utilise des métriques standardisées pour évaluer la robustesse des modèles
 
 Nelson ZOUATOM
 
++33 7 46 51 63 06
+
 www.linkedin.com/in/nelson-arafat-zouatom-tchaptchet-961155348
